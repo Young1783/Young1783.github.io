@@ -5,7 +5,7 @@ subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-04-27 
 author:     "Evan"
 header-img: "img/post-bg-2015.jpg"
-catalog:    true
+catalog: true
 tags:
     - 心情随笔
 ---
