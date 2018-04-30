@@ -73,7 +73,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # timezone
-timezone: TAsia/Shanghai
+timezone: Asia/Shanghai
 
 
 # Friends
