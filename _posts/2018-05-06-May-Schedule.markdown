@@ -14,6 +14,7 @@ tags:
   - [ ] 《机器学习》 作者：周志华 清华大学出版社
   - [ ] 《DeepLearning》 [网页版](http://www.deeplearningbook.org/)
 - [ ] 技术
-  - [ ] LaTeX （用于论文中书写公式）
+  - [x] LaTeX （用于论文中书写公式）
   - [ ] vim 高效写代码的方式
   - [ ] python 流行的处理数据的高级语言
+    - [ ] OpenCV
