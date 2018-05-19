@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Anaconda skills"
-subtitle:   "JupyterLab扩展汇总以及包"
+subtitle:   "some useful cmd"
 date:       2018-05-19
 author:     "Evan"
 header-img: "img/post-bg-2015.jpg"
