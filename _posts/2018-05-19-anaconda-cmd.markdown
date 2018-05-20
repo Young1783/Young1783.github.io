@@ -10,15 +10,15 @@ tags:
     - skills
 ---
 
-# About KERNEL
+## About KERNEL
 
-## install
+##### install
 
 ``` bash
 python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 ```
 
-## uninstall 
+##### uninstall 
 
 ```bash
 jupyter kernelspec list
@@ -27,11 +27,13 @@ jupyter kernelspec remove yourkernel
 # remove kernel
 ```
 
-# About VIRTUAL ENVIRONMENT
+## About VIRTUAL ENVIRONMENT
 
 ```bash
 conda info -e
 # list all your envs
 conda create -n your_env_name python=X.X（such as 2.7、3.6）
 # create envs
+conda create -n your_env_name package --clone existing_env_name
+# create a env from an existing env
 ```
