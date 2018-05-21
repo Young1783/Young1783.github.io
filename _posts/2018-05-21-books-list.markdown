@@ -42,3 +42,4 @@ Auther: （美）冈萨雷斯，（美）伍兹　著
 
 1. [知乎问题](https://www.zhihu.com/question/20523667#_Toc5428)
 
+2. [github书单](https://github.com/TechBookHunter/Free-Python-Books/tree/master/book)
