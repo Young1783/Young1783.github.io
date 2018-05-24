@@ -40,6 +40,13 @@ scikit-image
 
 [demo](http://www.scipy-lectures.org/packages/scikit-image/index.html)
 
+
+## opencv-python
+
+``` bash
+python -m pip install opencv-python
+```
+
 # LaTex
 
 pip install jupyterlab_latex
