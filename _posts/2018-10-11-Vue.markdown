@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Vue.js Project Structure"
+subtitle:   "Vue-cli command"
+date:       2018-10-11 
+author:     "Evan"
+header-img: "img/post-bg-2015.jpg"
+catalog:    true
+tags:
+    - vue
+---
+
+## Vue Project Structure
+
+```
+-- build           项目构建
+|- config          配置信息
+|- node_modules    当前项目npm加载的模块
+|- src             开发目录
+|- static          静态资源目录
+|- index.html      首页入口
+|- package.json    项目配置文件
+|- README.md       项目说明文档
+```
