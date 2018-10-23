@@ -42,9 +42,7 @@ tags:
 2. 对于参数theta可微。
 常见形式：**均方误差**，**交叉熵**。
 
-当求得
-![](http://latex.codecogs.com/gif.latex?\\theta)
-$\theta$值，使得$J(\theta)$最小时，或者说代价函数收敛时，就是最佳参数值$\theta$。
+当求得$\theta$值，使得$J(\theta)$最小时，或者说代价函数收敛时，就是最佳参数值$\theta$。
 
 
 
