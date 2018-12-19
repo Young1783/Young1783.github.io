@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Deep Learnibg]Reading note on Linear Algebra "
+title: "[Deep Learning]Reading note on Linear Algebra "
 subtitle: "Linear Algebra"
 date: 2018-12-18
 author: "Evan"
